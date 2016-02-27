@@ -2,9 +2,9 @@
 
 1. Introduction
 --------------
-OpenMapJS is an application which plots RDF (GeoSPARQL compatible) using a OpenLayer-3 map. 
+OpenMapJS is an application which plots RDF (GeoSPARQL compatible) using an OpenLayer-3 map. 
 
-It had been built using AngularJS, so there is no need of an application server to run this application. 
+It has been built using AngularJS, so there is no need of an application server to run this application. 
 
 2. Download
 ----------
@@ -47,3 +47,7 @@ standard is not recognized.
 6. Preview
 ----------
 ![OpenMapJS](http://i.imgur.com/Xzm7Z3g.png)
+
+7. License
+----------
+This application is distributed under GNU/LGPL License v3.
